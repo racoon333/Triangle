@@ -1,0 +1,5 @@
+C:\Users\Anna Plotnikova\Documents\Visual Studio 2015\Projects\TriangleArea\TriangleArea\bin\Debug\TriangleArea.dll
+C:\Users\Anna Plotnikova\Documents\Visual Studio 2015\Projects\TriangleArea\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\Anna Plotnikova\Documents\Visual Studio 2015\Projects\TriangleArea\TriangleArea\obj\Debug\TriangleArea.dll
+C:\Users\Anna Plotnikova\Documents\Visual Studio 2015\Projects\TriangleArea\TriangleArea\obj\Debug\TriangleArea.pdb
+C:\Users\Anna Plotnikova\Documents\Visual Studio 2015\Projects\TriangleArea\TriangleArea\obj\Debug\TriangleArea.csprojResolveAssemblyReference.cache
